@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jothika714
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...
 - 📫 How to reach me jothika9920@gmail.com
 
 <!---
