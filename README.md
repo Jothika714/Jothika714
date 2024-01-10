@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jothika714
 - 👀 I’m interested in Web Development
-- 📫 How to reach me jothika9920@gmail.com
+- 📫 How to reach me jothikam920@gmail.com
 
 <!---
 Jothika714/Jothika714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
